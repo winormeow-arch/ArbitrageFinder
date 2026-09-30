@@ -1,0 +1,39 @@
+name: Arbitraj Tarama
+
+on:
+  workflow_dispatch:        # Actions sekmesinden elle calistirma
+  schedule:
+    - cron: "0 7,15 * * *"  # her gun 10:00 ve 18:00 (TR saati)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: arbitraj
+  cancel-in-progress: false
+
+jobs:
+  tara:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Oranlari tara
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+          REGION: eu
+          SPORTS: ""        # bos = varsayilan 8 lig, "all" = sezondaki her sey (kotayi hizla bitirir)
+          CUTOFF: "0"
+          STAKE: "1000"
+          RESERVE: "15"
+        run: python arb_web.py
+      - name: Sonucu kaydet
+        run: |
+          git config user.name "arb-bot"
+          git config user.email "arb-bot@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet || git commit -m "Arbitraj taramasi $(date -u +'%Y-%m-%d %H:%M')"
+          git pull --rebase
+          git push
