@@ -1,5 +1,5 @@
 {
- "scanned_at": 1790863678,
+ "scanned_at": 1790885079,
  "region": "eu",
  "sports": [
   "soccer_epl",
@@ -11,8 +11,8 @@
   "soccer_uefa_champs_league",
   "basketball_euroleague"
  ],
- "matches_scanned": 143,
- "credits_remaining": 492,
+ "matches_scanned": 142,
+ "credits_remaining": 484,
  "arbs": [
   {
    "match": "AS Roma - Real Madrid",
@@ -29,7 +29,7 @@
      "odd": 3.65,
      "stake": 279.75,
      "return": 1021.08,
-     "updated": 1790863629
+     "updated": 1790885075
     },
     {
      "outcome": "Real Madrid",
@@ -37,7 +37,7 @@
      "odd": 2.14,
      "stake": 477.14,
      "return": 1021.08,
-     "updated": 1790863665
+     "updated": 1790885074
     },
     {
      "outcome": "Draw",
@@ -45,7 +45,34 @@
      "odd": 4.2,
      "stake": 243.11,
      "return": 1021.08,
-     "updated": 1790863631
+     "updated": 1790885033
+    }
+   ]
+  },
+  {
+   "match": "Panathinaikos - Maccabi Tel Aviv",
+   "league": "Basketball Euroleague",
+   "sport_key": "basketball_euroleague",
+   "start": 1790964900,
+   "total_implied": 0.9797,
+   "profit_pct": 2.07,
+   "suspicious": false,
+   "legs": [
+    {
+     "outcome": "Maccabi Tel Aviv",
+     "bookmaker": "Winamax (DE)",
+     "odd": 6.0,
+     "stake": 170.12,
+     "return": 1020.75,
+     "updated": 1790885055
+    },
+    {
+     "outcome": "Panathinaikos",
+     "bookmaker": "1xBet",
+     "odd": 1.23,
+     "stake": 829.88,
+     "return": 1020.75,
+     "updated": 1790885052
     }
    ]
   },
@@ -64,7 +91,7 @@
      "odd": 1.44,
      "stake": 703.84,
      "return": 1013.53,
-     "updated": 1790863642
+     "updated": 1790884948
     },
     {
      "outcome": "Leeds United",
@@ -72,7 +99,7 @@
      "odd": 8.8,
      "stake": 115.17,
      "return": 1013.53,
-     "updated": 1790863661
+     "updated": 1790885052
     },
     {
      "outcome": "Draw",
@@ -80,104 +107,7 @@
      "odd": 5.6,
      "stake": 180.99,
      "return": 1013.53,
-     "updated": 1790863661
-    }
-   ]
-  },
-  {
-   "match": "Monza - Cagliari",
-   "league": "Serie A - Italy",
-   "sport_key": "soccer_italy_serie_a",
-   "start": 1792427400,
-   "total_implied": 0.9868,
-   "profit_pct": 1.34,
-   "suspicious": false,
-   "legs": [
-    {
-     "outcome": "Cagliari",
-     "bookmaker": "1xBet",
-     "odd": 3.9,
-     "stake": 259.84,
-     "return": 1013.39,
-     "updated": 1790863666
-    },
-    {
-     "outcome": "Monza",
-     "bookmaker": "Betfair",
-     "odd": 2.34,
-     "stake": 433.07,
-     "return": 1013.39,
-     "updated": 1790863646
-    },
-    {
-     "outcome": "Draw",
-     "bookmaker": "Nordic Bet",
-     "odd": 3.3,
-     "stake": 307.09,
-     "return": 1013.39,
-     "updated": 1790863614
-    }
-   ]
-  },
-  {
-   "match": "Panathinaikos - Maccabi Tel Aviv",
-   "league": "Basketball Euroleague",
-   "sport_key": "basketball_euroleague",
-   "start": 1790964900,
-   "total_implied": 0.9885,
-   "profit_pct": 1.16,
-   "suspicious": false,
-   "legs": [
-    {
-     "outcome": "Maccabi Tel Aviv",
-     "bookmaker": "Winamax (DE)",
-     "odd": 6.75,
-     "stake": 149.87,
-     "return": 1011.65,
-     "updated": 1790863666
-    },
-    {
-     "outcome": "Panathinaikos",
-     "bookmaker": "Marathon Bet",
-     "odd": 1.19,
-     "stake": 850.13,
-     "return": 1011.65,
-     "updated": 1790863575
-    }
-   ]
-  },
-  {
-   "match": "Lazio - Monza",
-   "league": "Serie A - Italy",
-   "sport_key": "soccer_italy_serie_a",
-   "start": 1791723600,
-   "total_implied": 0.9896,
-   "profit_pct": 1.05,
-   "suspicious": false,
-   "legs": [
-    {
-     "outcome": "Lazio",
-     "bookmaker": "1xBet",
-     "odd": 1.68,
-     "stake": 601.5,
-     "return": 1010.53,
-     "updated": 1790863666
-    },
-    {
-     "outcome": "Monza",
-     "bookmaker": "Betfair",
-     "odd": 6.4,
-     "stake": 157.89,
-     "return": 1010.53,
-     "updated": 1790863646
-    },
-    {
-     "outcome": "Draw",
-     "bookmaker": "Winamax (DE)",
-     "odd": 4.2,
-     "stake": 240.6,
-     "return": 1010.53,
-     "updated": 1790863630
+     "updated": 1790885052
     }
    ]
   },
@@ -196,7 +126,7 @@
      "odd": 1.09,
      "stake": 926.64,
      "return": 1010.04,
-     "updated": 1790863665
+     "updated": 1790885057
     },
     {
      "outcome": "Getafe",
@@ -204,7 +134,7 @@
      "odd": 50.0,
      "stake": 20.2,
      "return": 1010.04,
-     "updated": 1790863543
+     "updated": 1790884859
     },
     {
      "outcome": "Draw",
@@ -212,7 +142,7 @@
      "odd": 19.0,
      "stake": 53.16,
      "return": 1010.04,
-     "updated": 1790863543
+     "updated": 1790884859
     }
    ]
   },
@@ -231,7 +161,7 @@
      "odd": 1.3,
      "stake": 775.86,
      "return": 1008.62,
-     "updated": 1790863543
+     "updated": 1790884859
     },
     {
      "outcome": "Sevilla",
@@ -239,7 +169,7 @@
      "odd": 12.0,
      "stake": 84.05,
      "return": 1008.62,
-     "updated": 1790863665
+     "updated": 1790885057
     },
     {
      "outcome": "Draw",
@@ -247,7 +177,7 @@
      "odd": 7.2,
      "stake": 140.09,
      "return": 1008.62,
-     "updated": 1790863632
+     "updated": 1790884959
     }
    ]
   },
@@ -266,7 +196,7 @@
      "odd": 1.53,
      "stake": 658.42,
      "return": 1007.38,
-     "updated": 1790863543
+     "updated": 1790884859
     },
     {
      "outcome": "Real Betis",
@@ -274,7 +204,7 @@
      "odd": 5.8,
      "stake": 173.69,
      "return": 1007.38,
-     "updated": 1790863543
+     "updated": 1790884859
     },
     {
      "outcome": "Draw",
@@ -282,7 +212,7 @@
      "odd": 6.0,
      "stake": 167.9,
      "return": 1007.38,
-     "updated": 1790863665
+     "updated": 1790885057
     }
    ]
   },
@@ -301,7 +231,7 @@
      "odd": 2.55,
      "stake": 394.86,
      "return": 1006.89,
-     "updated": 1790863630
+     "updated": 1790885003
     },
     {
      "outcome": "Sassuolo",
@@ -309,7 +239,7 @@
      "odd": 2.96,
      "stake": 340.17,
      "return": 1006.89,
-     "updated": 1790863666
+     "updated": 1790885032
     },
     {
      "outcome": "Draw",
@@ -317,7 +247,77 @@
      "odd": 3.8,
      "stake": 264.97,
      "return": 1006.89,
-     "updated": 1790863646
+     "updated": 1790885058
+    }
+   ]
+  },
+  {
+   "match": "Monza - Cagliari",
+   "league": "Serie A - Italy",
+   "sport_key": "soccer_italy_serie_a",
+   "start": 1792427400,
+   "total_implied": 0.9942,
+   "profit_pct": 0.58,
+   "suspicious": false,
+   "legs": [
+    {
+     "outcome": "Cagliari",
+     "bookmaker": "1xBet",
+     "odd": 3.9,
+     "stake": 257.9,
+     "return": 1005.81,
+     "updated": 1790885032
+    },
+    {
+     "outcome": "Monza",
+     "bookmaker": "Betfair",
+     "odd": 2.3,
+     "stake": 437.31,
+     "return": 1005.81,
+     "updated": 1790885058
+    },
+    {
+     "outcome": "Draw",
+     "bookmaker": "Winamax (DE)",
+     "odd": 3.3,
+     "stake": 304.79,
+     "return": 1005.81,
+     "updated": 1790885076
+    }
+   ]
+  },
+  {
+   "match": "Aston Villa - Brentford",
+   "league": "EPL",
+   "sport_key": "soccer_epl",
+   "start": 1791640800,
+   "total_implied": 0.9947,
+   "profit_pct": 0.53,
+   "suspicious": false,
+   "legs": [
+    {
+     "outcome": "Aston Villa",
+     "bookmaker": "Betfair",
+     "odd": 2.76,
+     "stake": 364.24,
+     "return": 1005.31,
+     "updated": 1790885052
+    },
+    {
+     "outcome": "Brentford",
+     "bookmaker": "1xBet",
+     "odd": 2.79,
+     "stake": 360.33,
+     "return": 1005.31,
+     "updated": 1790884948
+    },
+    {
+     "outcome": "Draw",
+     "bookmaker": "Betfair",
+     "odd": 3.65,
+     "stake": 275.43,
+     "return": 1005.31,
+     "updated": 1790885052
     }
    ]
   },
@@ -336,7 +336,7 @@
      "odd": 37.0,
      "stake": 27.16,
      "return": 1005.08,
-     "updated": 1790863646
+     "updated": 1790885030
     },
     {
      "outcome": "Paris Saint Germain",
@@ -344,7 +344,7 @@
      "odd": 1.1,
      "stake": 913.71,
      "return": 1005.08,
-     "updated": 1790863648
+     "updated": 1790885030
     },
     {
      "outcome": "Draw",
@@ -352,34 +352,7 @@
      "odd": 17.0,
      "stake": 59.12,
      "return": 1005.08,
-     "updated": 1790863646
-    }
-   ]
-  },
-  {
-   "match": "Hapoel Tel Aviv - Real Madrid",
-   "league": "Basketball Euroleague",
-   "sport_key": "basketball_euroleague",
-   "start": 1790870400,
-   "total_implied": 0.9952,
-   "profit_pct": 0.48,
-   "suspicious": false,
-   "legs": [
-    {
-     "outcome": "Hapoel Tel Aviv",
-     "bookmaker": "Betfair",
-     "odd": 2.5,
-     "stake": 401.91,
-     "return": 1004.78,
-     "updated": 1790863680
-    },
-    {
-     "outcome": "Real Madrid",
-     "bookmaker": "Unibet (NL)",
-     "odd": 1.68,
-     "stake": 598.09,
-     "return": 1004.78,
-     "updated": 1790863678
+     "updated": 1790885030
     }
    ]
   },
@@ -398,7 +371,7 @@
      "odd": 7.0,
      "stake": 143.46,
      "return": 1004.2,
-     "updated": 1790863660
+     "updated": 1790885023
     },
     {
      "outcome": "TSG Hoffenheim",
@@ -406,7 +379,7 @@
      "odd": 1.49,
      "stake": 673.96,
      "return": 1004.2,
-     "updated": 1790863659
+     "updated": 1790884836
     },
     {
      "outcome": "Draw",
@@ -414,7 +387,7 @@
      "odd": 5.5,
      "stake": 182.58,
      "return": 1004.2,
-     "updated": 1790863610
+     "updated": 1790885071
     }
    ]
   },
@@ -433,7 +406,7 @@
      "odd": 5.44,
      "stake": 184.58,
      "return": 1004.13,
-     "updated": 1790863659
+     "updated": 1790884836
     },
     {
      "outcome": "SC Freiburg",
@@ -441,7 +414,7 @@
      "odd": 1.71,
      "stake": 587.21,
      "return": 1004.13,
-     "updated": 1790863659
+     "updated": 1790884836
     },
     {
      "outcome": "Draw",
@@ -449,7 +422,7 @@
      "odd": 4.4,
      "stake": 228.21,
      "return": 1004.13,
-     "updated": 1790863660
+     "updated": 1790885023
     }
    ]
   },
@@ -468,7 +441,7 @@
      "odd": 7.5,
      "stake": 133.86,
      "return": 1003.94,
-     "updated": 1790863630
+     "updated": 1790885003
     },
     {
      "outcome": "Napoli",
@@ -476,7 +449,7 @@
      "odd": 1.5,
      "stake": 669.29,
      "return": 1003.94,
-     "updated": 1790863646
+     "updated": 1790885058
     },
     {
      "outcome": "Draw",
@@ -484,7 +457,42 @@
      "odd": 5.1,
      "stake": 196.85,
      "return": 1003.94,
-     "updated": 1790863630
+     "updated": 1790885003
+    }
+   ]
+  },
+  {
+   "match": "RC Lens - Lyon",
+   "league": "Ligue 1 - France",
+   "sport_key": "soccer_france_ligue_one",
+   "start": 1791571500,
+   "total_implied": 0.9963,
+   "profit_pct": 0.37,
+   "suspicious": false,
+   "legs": [
+    {
+     "outcome": "Lyon",
+     "bookmaker": "1xBet",
+     "odd": 3.21,
+     "stake": 312.68,
+     "return": 1003.7,
+     "updated": 1790885030
+    },
+    {
+     "outcome": "RC Lens",
+     "bookmaker": "Coolbet",
+     "odd": 2.3,
+     "stake": 436.39,
+     "return": 1003.7,
+     "updated": 1790885031
+    },
+    {
+     "outcome": "Draw",
+     "bookmaker": "Coolbet",
+     "odd": 4.0,
+     "stake": 250.93,
+     "return": 1003.7,
+     "updated": 1790885031
     }
    ]
   },
@@ -503,7 +511,7 @@
      "odd": 2.8,
      "stake": 358.2,
      "return": 1002.95,
-     "updated": 1790863666
+     "updated": 1790884959
     },
     {
      "outcome": "Como",
@@ -511,7 +519,7 @@
      "odd": 2.7,
      "stake": 371.46,
      "return": 1002.95,
-     "updated": 1790863646
+     "updated": 1790885058
     },
     {
      "outcome": "Draw",
@@ -519,42 +527,7 @@
      "odd": 3.71,
      "stake": 270.34,
      "return": 1002.95,
-     "updated": 1790863666
-    }
-   ]
-  },
-  {
-   "match": "Aston Villa - Brentford",
-   "league": "EPL",
-   "sport_key": "soccer_epl",
-   "start": 1791640800,
-   "total_implied": 0.9974,
-   "profit_pct": 0.26,
-   "suspicious": false,
-   "legs": [
-    {
-     "outcome": "Aston Villa",
-     "bookmaker": "Betfair",
-     "odd": 2.74,
-     "stake": 365.93,
-     "return": 1002.65,
-     "updated": 1790863661
-    },
-    {
-     "outcome": "Brentford",
-     "bookmaker": "1xBet",
-     "odd": 2.79,
-     "stake": 359.37,
-     "return": 1002.65,
-     "updated": 1790863642
-    },
-    {
-     "outcome": "Draw",
-     "bookmaker": "Betfair",
-     "odd": 3.65,
-     "stake": 274.7,
-     "return": 1002.65,
-     "updated": 1790863661
+     "updated": 1790885032
     }
    ]
   },
@@ -573,7 +546,7 @@
      "odd": 1.77,
      "stake": 566.37,
      "return": 1002.48,
-     "updated": 1790863647
+     "updated": 1790885030
     },
     {
      "outcome": "Toulouse",
@@ -581,15 +554,15 @@
      "odd": 5.0,
      "stake": 200.5,
      "return": 1002.48,
-     "updated": 1790863631
+     "updated": 1790885031
     },
     {
      "outcome": "Draw",
-     "bookmaker": "Coolbet",
+     "bookmaker": "Tipico",
      "odd": 4.3,
      "stake": 233.13,
      "return": 1002.48,
-     "updated": 1790863631
+     "updated": 1790885074
     }
    ]
   },
@@ -608,7 +581,7 @@
      "odd": 3.35,
      "stake": 299.0,
      "return": 1001.65,
-     "updated": 1790863665
+     "updated": 1790885074
     },
     {
      "outcome": "Borussia Dortmund",
@@ -616,7 +589,7 @@
      "odd": 2.14,
      "stake": 468.06,
      "return": 1001.65,
-     "updated": 1790863645
+     "updated": 1790884817
     },
     {
      "outcome": "Draw",
@@ -624,7 +597,7 @@
      "odd": 4.3,
      "stake": 232.94,
      "return": 1001.65,
-     "updated": 1790863631
+     "updated": 1790885033
     }
    ]
   },
@@ -643,7 +616,7 @@
      "odd": 1.8,
      "stake": 556.35,
      "return": 1001.43,
-     "updated": 1790863645
+     "updated": 1790884817
     },
     {
      "outcome": "Fenerbahce",
@@ -651,7 +624,7 @@
      "odd": 4.88,
      "stake": 205.21,
      "return": 1001.43,
-     "updated": 1790863645
+     "updated": 1790884817
     },
     {
      "outcome": "Draw",
@@ -659,7 +632,7 @@
      "odd": 4.2,
      "stake": 238.44,
      "return": 1001.43,
-     "updated": 1790863665
+     "updated": 1790885074
     }
    ]
   },
@@ -678,7 +651,7 @@
      "odd": 2.31,
      "stake": 433.39,
      "return": 1001.14,
-     "updated": 1790863645
+     "updated": 1790884817
     },
     {
      "outcome": "Manchester United",
@@ -686,7 +659,7 @@
      "odd": 3.05,
      "stake": 328.24,
      "return": 1001.14,
-     "updated": 1790863629
+     "updated": 1790885075
     },
     {
      "outcome": "Draw",
@@ -694,7 +667,7 @@
      "odd": 4.2,
      "stake": 238.37,
      "return": 1001.14,
-     "updated": 1790863631
+     "updated": 1790885033
     }
    ]
   },
@@ -713,7 +686,7 @@
      "odd": 2.02,
      "stake": 495.56,
      "return": 1001.04,
-     "updated": 1790863646
+     "updated": 1790885058
     },
     {
      "outcome": "Lecce",
@@ -721,7 +694,7 @@
      "odd": 4.5,
      "stake": 222.45,
      "return": 1001.04,
-     "updated": 1790863648
+     "updated": 1790885056
     },
     {
      "outcome": "Draw",
@@ -729,7 +702,7 @@
      "odd": 3.55,
      "stake": 281.98,
      "return": 1001.04,
-     "updated": 1790863630
+     "updated": 1790885003
     }
    ]
   },
@@ -748,7 +721,7 @@
      "odd": 5.08,
      "stake": 197.02,
      "return": 1000.87,
-     "updated": 1790863659
+     "updated": 1790884836
     },
     {
      "outcome": "VfB Stuttgart",
@@ -756,7 +729,7 @@
      "odd": 1.68,
      "stake": 595.76,
      "return": 1000.87,
-     "updated": 1790863610
+     "updated": 1790885071
     },
     {
      "outcome": "Draw",
@@ -764,7 +737,7 @@
      "odd": 4.83,
      "stake": 207.22,
      "return": 1000.87,
-     "updated": 1790863659
+     "updated": 1790884836
     }
    ]
   },
@@ -783,7 +756,7 @@
      "odd": 7.5,
      "stake": 133.4,
      "return": 1000.52,
-     "updated": 1790863647
+     "updated": 1790885030
     },
     {
      "outcome": "Rennes",
@@ -791,7 +764,7 @@
      "odd": 1.48,
      "stake": 676.02,
      "return": 1000.52,
-     "updated": 1790863646
+     "updated": 1790885030
     },
     {
      "outcome": "Draw",
@@ -799,7 +772,7 @@
      "odd": 5.25,
      "stake": 190.57,
      "return": 1000.52,
-     "updated": 1790863631
+     "updated": 1790885031
     }
    ]
   }
